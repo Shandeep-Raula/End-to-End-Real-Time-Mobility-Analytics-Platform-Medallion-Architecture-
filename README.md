@@ -4,3 +4,5 @@ Simulates a high-throughput ride-booking system to ingest, process, and analyze 
 
 ### Project Architecture
 ![Project Architecture](projectflow.png)
+
+🔗 **[Open Dashboard](https://dbc-221765d5-da63.cloud.databricks.com/dashboardsv3/01f12e773550167d9ecf5317e82b4ef1/published?o=7474652470309332)**
